@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">SURVIVAL</string>
+    <string name="title_activity_prepmain">prepmain</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="preparation">"Survival planning is nothing more than realizing something could happen that would put you in a survival situation and, with that in mind, taking steps to increase your chances of survival.
+
+ Preparation means preparing yourself and your survival kit for those contingencies that you have in your plan. Prepare yourself by making sure your immunizations and dental work are up-to-date. Break in your boots and make sure that the boots have good soles and water-repellent properties. Study the area, climate, terrain, and indigenous methods of food and water procurement. You should continuously assess data, even after the plan is made, to update the plan as necessary and give you the greatest possible chance of survival. Another example of preparation is finding the emergency exits on an aircraft when you board it for a flight. Practice things that you have planned with the items in your survival kit - get to know your gear. Checking ensures that items work and that you know how to use them. Build a fire in the rain so you know that when it is critical to get warm, you can do it. Review the medical items in your kit and have instructions printed on their use so that even in times of stress, you will not make life-threatening errors.
+
+IMPORTANCE OF PLANNING
+
+Detailed prior planning is essential in potential survival situations. Including survival considerations in mission planning will enhance your chances of survival if an emergency occurs. For example, if your job requires that you work in a small, enclosed area that limits what you can carry on your person, plan where you can put your rucksack or your load-bearing equipment (LBE). Put it where it will not prevent you from getting out of the area quickly, yet where it is readily accessible.
+
+One important aspect of prior planning is preventive medicine. Ensuring that you have no dental problems and that your immunizations are current will help you avoid potential dental or health problems. Some dental problems can progress to the point that you may not be able to eat enough to survive. Failure to keep your shots current may mean your body is not immune to diseases that are prevalent in the area.</string>
+
+    <string name="forseti">"When driving or walking through the desert, the road seems endless. There is nothing around for miles and miles. Nothing but desert plants, dry sand, and heat. If your car should break down, and you find yourself stuck in the desert, learn how to conserve water and survive until rescue.
+In a Hurry?
+1. Become mobile only after the sun goes down to minimize heat exhaustion.
+2. Stay in a shaded shelter during the day.
+3. Build a fire and use the smoke to signal help.
+4. Find ground water sources near or underneath green vegetation, canyons, dry river beds or rocks.
+5. Rest if you experience heat exhaustion.
+6. Stay away from dangerous animals.</string>
+
+    <string name="desert1">"1
+Wear clothing that minimizes sweat loss. Most of your body's water loss happens through perspiration. Cover as much skin as possible with loose, light-weight clothing. This will trap the sweat against your skin, slowing evaporation and therefore water loss. For this reason, it's probably best to go with a cotton undershirt rather than a wicking fabric.[1]Cover it all with a light windbreaker.
+Wear a wide-brimmed hat, sunglasses, and gloves.
+Pack wool or fleece clothing. If an emergency occurs, you may be traveling at night, when it can get quite cold.
+Light-colored clothing reflects more heat, but dark clothing usually provides better protection from UV light, which causes sunburn. If possible, find white clothing that's labeled with a UPF (Ultraviolet Protection Factor) of 30+.[2]
+</string>
+
+    <string name="desert2">"2
+Bring lots of extra water. Whenever you enter a desert, bring more water than you expect. While walking in sunshine and 40ºC (104ºF) heat, the average person loses 900 mL (30 oz) of sweat every hour.[3] In an emergency situation, you'll be thankful for any water you carried.
+Divide the water you're carrying among several containers. This minimizes the amount of water you can lose to one leak.[4]
+Store the excess in a cool spot in your vehicle, away from direct sunlight.
+</string>
+
+    <string name="desert3">"3
+Bring food that packs the most nutrition in the least size and weight. Energy bars, pemmican, jerky, and trail mix are popular choices. Do your research, experiment beforehand, and be prepared. When wheeled vehicles break down, it's just your two legs and the path to the next town, and you don't want to be carrying anything nonessential.
+Include some foods with salt and potassium, which are lost in sweat. These will help you avoid heat exhaustion and retain more water. However, if you are dehydrated, excess salt can make you feel worse.
+Food is not a priority in a desert emergency. If you are out of water, only eat the minimum required to function.[5]
+
+</string>
+
+    <string name="desert4">"Pack survival equipment. Here are the bare essentials for a survival kit:[6]
+Sturdy emergency blankets
+Cords or rope
+Water purification tablets
+First aid kit
+Fire starters
+Powerful flashlight or headlamp. LEDs last longest.
+Knife
+Compass
+Signal mirror
+Goggles and a dust mask or bandana (for dust storms)</string>
+
+    <string name="desert5">"Survival Tactics
+
+1.Become nocturnal. 
+        In a desert survival situation, you do not want to be moving around during the day. The cooler night air enables you to travel farther and faster with minimum danger of heat exhaustion. In hot climates, this single decision will save your body about three liters (three quarts) of water per day.[7]
+
+</string>
+
+    <string name="desert6">"2.Stay in a shelter during the day. 
+        If you don't have a shaded car to stay in, string cords between a pair of objects in a place that gets shade most of the day. Drape a sturdy emergency blanket over the cords. Place a few pieces of brush on top of the blanket, then cover it with another emergency blanket (this one can be a thin Mylar sheet). The gap of air between the two blankets insulates the shelter, keeping it cooler.
+Build this in the evening or at night. If you build it during the day, you'll trap heat in.
+You can use an existing rock overhang or cave instead, but approach carefully as an animal may be using it.
+
+</string>
+
+    <string name="desert7">"3.Signal for help.
+         Building a fire is a great way to make a signal, creating smoke during the day and light at night. While in transit, keep a signal mirror in reach to reflect light at passing aircraft or distant cars.[8]
+If you plan to stay in one spot until rescue, place rocks or objects on the ground to write SOS or a similar message, readable by aircraft.
+</string>
+
+    <string name="desert8">"4.Decide whether to stay in place. 
+        If you have a supply of water and someone knows where you are, staying in one place may be your best chance of rescue. Traveling to find help will exhaust you much faster than staying in place, and water loss will cut your survival time way down if you can't find another supply. That said, if your water supplies are low, you will need to look for more. You cannot expect to survive more than a couple days if you run out of water.
+</string>
+
+    <string name="desert9">"5.Find water sources. 
+        If there's been a rainstorm recently, you may find pockets of water in rock outcrops or flat stone surfaces. More often, you'll need to search for areas with possible groundwater:
+Follow animal tracks leading downhill, birds circling around something, or even flying insects.
+Walk to the greenest vegetation you can see, especially large plants with wide leaves.
+Follow canyons or dry river beds upstream, and look for a depression, especially on the outside edge of a bend.
+Look for a slope of hard, non-porous rock, where rainwater would run into the soil. Dig in the sand or soil at the base of this slope.
+    </string>
+
+
+    <string name="desert10">"6.Dig for water.
+         Once you've found one of the areas above, dig about 30 cm (1 ft) down. If you feel any moisture, enlarge the hole to about 30 cm (1 ft) in diameter. Wait for a few hours for the hole to fill with water.[9]
+Purify water whenever possible. If you don't have the option, drink. Even if you do get sick, it will usually take a few days for symptoms to appear, while dehydration will get you much faster.
+</string>
+
+    <string name="desert11">"7.Look for water elsewhere. Besides groundwater, you can find dew gathering on plants before dawn. You may also find water in hollow tree trunks. Gather these sources with an absorbent cloth, then squeeze it into a container.
+Half-buried rocks have a cool base in the early morning. Turn them over before dawn so a little condensation forms.</string>
+
+
+    <string name="desert12">"Recognizing Dangers
+
+1.Watch out for signs of dehydration.
+         Many people make their journey much harder by underestimating their water needs. Trying to ration your supply is a mistake that can cost your life. If you notice any of the following symptoms, drink more water:[10]
+Urine with a dark color or a noticeable smell.
+Dry skin
+Dizziness
+Fainting
+</string>
+
+    <string name="desert13">"2.Rest if you experience heat exhaustion. 
+
+        If you feel lightheaded or nauseous, or if your skin feels cool and clammy, seek shade immediately. Rest and treat yourself as follows:[11]
+Remove or loosen your clothing
+Sip a sports drink or slightly salty water (about 5 mL salt per liter water / 1 tsp per quart).
+Apply wet cloth on your skin to aid cooling evaporation.
+Warning: if untreated, this can progress to heatstroke. This causes muscle cramps, red skin that no longer sweats, and eventually organ damage or death.
+</string>
+
+    <string name="desert14">"3.Stay away from dangerous animals.
+         Most mammals and reptiles will stay away from you, especially if they are alone. Follow the same practice and be aware of your surroundings to avoid accidentally cornering something. If possible, research the wildlife of the local region beforehand so you know how to respond to specific species.
+Do not reach into small spaces or under rocks without poking it with a stick first. Scorpions, spiders, or snakes could be hiding there.
+In areas with killer bees, be alert and stay away from hives.
+</string>
+
+    <string name="desert15">"4.Steer clear of spiny plants.
+         Although it's not hard not to touch a cactus, you may not know that some of them scatter spiky burrs on the ground to spread their seeds. Although usually not a high priority, it's a good idea to steer clear of the area.[12] In the worst case scenario, you could cut yourself and get an infection.
+</string>
+
+    <string name="for1">"Think about all possible options if you find yourself in the wild without help. 
+        Be decisive about what the best survival course of action is. For example, if you think the best survival course of action is to seek out help and civilization, don't wait for four or five days before you come to this conclusion. Take action on the first or second day if possible, while you still have strength and endurance working for you</string>
+    <string name="for2">"Preparing shelter
+
+Build a shelter with branches (bamboo works best) and rope. Form an angular shape with it. Use as many branches as possible for added stability and protection against the wind and weather.
+</string>
+    <string name="for3">"2.Stay out of sunlight in hot environments.
+
+         If you are in a desert environment, try to build an underground shade shelter to avoid prolonged sun exposure (obviously only for hot climates) so you can travel more comfortably in cooler temperatures (avoid sweating).</string>
+    <string name="for4">"3.Consider a lean-to.
+
+         For this, you need something solid like a log or large rock. Lay long-ish branches against it thickly, and criss-cross smaller branches and shrubbery on top to provide sufficient insulation. The smaller your shelter is, the better it will insulate you. Shelters in low, dense shrubbery are often home to many insects.</string>
+    <string name="for5">"4.Build a bog-bed. 
+
+        If your environment is perpetually damp or mushy, use branches laid and crisscrossed on top of one another to create a solid and dry foundation for a lean-to or open bed pad. Rise above ground level as much as possible.</string>
+    <string name="for6">"Making fire and staying warm
+
+Use the lenses of a magnifying glass or even your glasses to start a fire.
+         Use dry wood and sticks to start your fire. Fire is started using three kinds of wood: tinder, kindling, and fuel. Tinder is any kind of flammable wood shaving; usually light and wispy. Kindling is used for coaxing the flame into a larger form, and fuel is for fuel.
+You can take two pieces of dry wood, sharpen one of them and use it to drill into the other piece. Place any highly flammable objects you can find next to the drill bit. The moment the flammable object catches a spark, use a rock to swiftly tip the shouldering object onto a nest of leaves/ twigs/dry bark.
+    </string>
+    <string name="for7">"2.Keep your body temperature as normal as possible.
+         Hypothermia or overheating can be deadly. If you are in the wilderness you should cover your body with everything from leaves to blankets before nights because the temperature often reduces drastically. Many people die each year as the result of hypothermia.</string>
+    <string name="for8">"Nourishment
+
+1.Carve a knife or spear for hunting.
+         Get an ordinary block of wood and hit with a blunt rock repeatedly until the wood sharpens. Sharpen like any other knife, but in this case, use the rock as your sharpener. You could also take a rock and break off some of the edges and then use another rock and some water like a wet stone and sharpen. In an ideal situation, Obsidian stone (black, translucent lava rock) would be used for its infamous sharpness.</string>
+    <string name="for9">"
+Set a trap if you can't go out to hunt. Arrange a few sticks in somewhat half a teepee. Use 2 more sticks to hold up the "teepee", similar to your shelter. Place an item of your choice you think an animal will come after. If you're lucky, the animal will be trapped.
+Use pitfall traps for larger prey. Dig a hole in the ground about 2-3m deep and 1-2m across (depends on the prey size). Take 2 thin branches and place them crisscrossed across the hole. Cover it with leaves and put something the animals like to eat (raw meat, or peanut butter, or berries). You can also put a few wooden spikes sharpened by your knife at the bottom. Don't forget to build a ladder or you might not be able to climb out of the hole. Always remember to cut it up into smaller pieces before moving it out of the hole. The last thing you want to do is to injure yourself. Set as many traps as you can.
+
+        Go after fish first if you go hunting. When you spot one, don't make a sudden move. The vibrations will scare them off. Water bends light and makes objects appear further than they appear, so compensate for this and aim just in front of your target. Practice makes perfect.
+
+        Streams are full of food for if you cannot catch fish there are usually freshwater mussels
+
+        If you fail at catching fish, try to find some plants to eat; dandelions(yellow flowers or big white thing, eat the leaves), sour grass(has a yellow flower at the top and looks like grass, only in a cylinder shape, has no leaves, eat the cylinder type grass part), just never eat white berries. It may be tempting to eat regular grass but do not.
+</string>
+    <string name="for10">"3Find water in the first days. 
+
+        Signs accompanying dehydration are dry tongue, burning throat, and dark-brown urine, at first instances. Water can set the line between life and death. Remember you can only survive for a maximum of 3 days without water.
+Find a place, like a pond or similar body of water, and dig a hole right beside it, deep enough for water to fall through. Use that, because if you take it right out of the pond, you don't know what bugs will go into your mouth.
+Another easy way to collect water is to set up some plastic wrap and collect dew in the morning, for water.</string>
+
+    <string name="for11">"Getting rescued
+
+1.Create a smoke signal. Repeat the fire step, this time using live branches.
+2.Make noise to attract attention. If you hear a bunch of people near you, blow your whistle and call for help. That will get their attention and you'll likely be rescued.
+</string>
+
+
+    <string name="cold">”
+    There is a big difference between reading about fire starting and having the skills needed to start a fire. It is especially important to practice building a fire in adverse weather. Spend a night out in the cold wilderness and you will quickly learn to appreciate the benefits of a fire. Fire gives us the option to cook a meal, purify water, clean our utensils, add warmth to our shelter, and dry our clothes. Fire also gives us a psychological edge, there is just something uplifting about the dancing flames. Fire helps improve our morality and give us a sense of control.
+</string>
+
+    <string name="cold1">”
+    But to a survivalist fire can mean the difference between life and death. Often we find that people will purchase a fire starting tool and not properly test it. We do not mean start a fire in optimal conditions using drier lint, we mean TEST your fire starting kit. Do you feel confident that your kit will help you start a fire under the worst conditions ? If you have not started a fire in the snow or right after a rain storm, then you cannot answer this question honestly.
+    Along the same line is the idea that we will use primitive fire starting methods and do not need a lighter or other fire starting tool. People on forums discussing carrying their bow drill kit in a zip loc bag to start a fire. If you are going for a walk in your local city park this may be acceptable but in a true wilderness emergency you should have anything that gives you the ability to start a fire under adverse conditions. Learning primitive fire starting methods are a great skill to carry in your tool box. It will improve your expertise in choosing tinder and wood but to put your life on the line is naive.
+</string>
+
+    <string name="cold2">"Tinder
+
+        With time and experience, we should be able to find/make tinder in most outdoor situations. However, since we are on the subject of safe winter travel, lets change the way we think about tinder for a minute. What do we need? We need tinder readily available that will ignite in the worse conditions. Tinder can be made using cardboard and wax or you can choose the more common cotton ball covered in petroleum jelly. We carry a tin full of petroleum jelly cotton balls and Trioxane bars as a backup.</string>
+    <string name="cold3">"Some lightweight items that are excellent fire starter aids are Trioxane and Esbit fuel bars. Note: We also carry candles. Candles can be used in multiple ways. (tough firestarting conditions by extending the life of a flame from matches, cut pieces of wax onto tinder, light, source of warmth in some shelters)
+
+
+Remember to shield your fire from the cold ground and from the wind. Use sticks to build a base to keep your tinder and kindling off the ground. A fire deflector can help keep the air currents away from the fire and reflect the heat onto your shelter.
+
+        Cold Weather Shelter</string>
+    <string name="cold4">"Imagine taking a beautiful day hike during winter. The spectacular views and solitude gives us a chance to see wildlife from a different perspective. So if we are going on a day hike, why should we bother thinking about shelter. Perhaps a person can become lost or disoriented. Hopefully we are not adding an injury to the scenario. A small pack could make the difference while we wait for rescue.
+A few essential items that we could include in the pack:
+Reflective tarp
+Can be used as a shelter or protect you from rain while on the move. We can magnify the benefits of a fire by using radiation to bounce heat within a shelter much like Mors Kochanski's super shelter.</string>
+    <string name="cold5">"Cordage
+
+Parachute cord - Numerous uses from shelter building, to fishing and traps.
+Trash bags
+Can be used as a makeshift raincoat. Can be filled with leaves for a shelter door, pillow, or as an insulation layer.
+Poncho
+Military ponchos, backpacking Tarpaulines have snaps and grommets that help configure it in different configurations.
+
+
+Test your tent near your home if you have never used it in winter time. Most tents are built so they have a lot of air circulation. It is also a good idea to learn some basic emergency shelters.
+SHELTERS
+
+Lean to shelter - poncho, tarp, emergency blanket, , bark, branches, foliage, trash bags
+Debris Shelters - a frame (double lean-to), wigwam or wickiup, half tepee
+Snow caves, Quinzhee hut
+Snow Trench
+Pit Shelter
+Tree Den
+* Remember to make sure your body is off the ground. Use pine boughs, leaves, saplings, vegetation to build a layer between your body and the ground. Heat transfer through conduction would quickly drain life saving heat from your body. If building a debris shelter, make it just big enough for your body to fit in. Remember your body will the main source of heat so we want to build the shelter wisely. In some instances, you will want to build a long parallel fire with a reflector. The fire should be as long as your body and reflect the heat back to you. Below is an example of a parallel fire with a reflector wall built during our trip to Canada with Caleb Musgrave Wilderness Essentials Survival</string>
+    <string name="cold6">"Water Procurement</string>
+    <string name="cold7">"Body reacts to the cold by shrinking the blood vessels --around our extremities. This causes the body to centralize our body heat in order to maintain our core temperature. This can reduce the overall volume of the circulatory system which increases blood pressure. The body's response to this is to reduce the fluid volume by getting rid of water in the urine. Regardless of the reason, we are loosing fluids at a pretty fast rate.
+Add to the cold,higher levels of stress and the rate at which we loose fluids will increase. As the body becomes dehydrated, our blood thickens. This causes the body to work harder and increases our chances of frostbite. As we get cold, the body will react by trying to keep our body core warm. The body is trying to protect vital organs and will sometimes sacrifice extremities to protect a persons life.
+Simply put, proper hydration is very important in decreasing cold exposure problems.
+So try to keep track of how much water you drink. Do not wait until you are thirsty to drink. Make a conscious effort to remind yourself I need to drink water. Lets not forget that drinking some warm liquid will help lift your spirits.
+Tips to keeping hydrated:
+* Unless you are being very active, or its the earlier part of the day, try to avoid eating snow. We have eaten snow numerous times while moving on snow shoes. Grabbing the snow from branches rather than the ground can avoid contaminated water issues. However note that eating snow in the later part of the day could add to the lowering of core body temperature.
+* Carry a Billy Can tied to a string. Avoid getting close to bodies of water where the ice could crack or you could slip and fall. Falling into a river or stream in the middle of a winter backpacking trip, could spell disaster.
+* We have filled our canteen or water bottle with snow and carried it between our clothing layers while hiking. This will often melt the snow.
+* If a container is not available to melt the snow, there are multiple ways to melt snow next to a fire. A mosquito net can be filled with snow and hung close to the fire. A snow marshmallow is another option to help melt snow. Simply pack snow in a ball on a stick and place it near the fire. Catch the drops of water with any material available.</string>
+
+    <string name="cold8">"Equipment
+    </string>
+
+    <string name="cold9">"Emergency kit is not as important as knowing why you carry them and HOW to use them. The equipment we carry will vary according to the environment we will travel. It seems common knowledge that if a person is to travel say a jungle/rainforest environment, the items found within our pack would be different than in the desert. How the items are used would also be different. In the swamp we can use a mosquito head net to keep the insects away from our face or as a fishing net. The same mosquito head net can be used to melt snow in the North. Get familiar with your equipment and learn to use each item properly. Learning to use the equipment at the time of emergency will increase the sense of fear and helplessness. Lets not forget that some equipment does not work as advertised.
+One example of how our tools would vary is a wood cutting tool. Wood in the Northern Hemisphere is usually harder (heavier density) than in a temperate region. The wood in the north grows slower and the growth rings are tighter (more rings per inch). If there is a need to cut wood, the proper tool could make a huge difference. In a jungle environment a machete could be required to move through the dense jungle. We find that in temperate regions, we are able to do most jobs with a large knife (5 to 7 inch blade). Further North, an axe or saw is a valuable tool. Snow covers the ground level fallen branches so firewood will usually need to come from felling dead trees.
+IMAGE
+Regardless of what your backpacking buddies say, CARRY A KNIFE! At least carry a multi-tool. Some of the emergency shelters we discussed can be built without a knife. However in a cold environment having a way to cut down wood and more importantly baton through the wood, is important. If the wood is frozen and/or wet on the outside, we can baton through the wood and make feathersticks to help start the fire. If lost and someone is looking for you a signal fire can be built.</string>
+</resources>

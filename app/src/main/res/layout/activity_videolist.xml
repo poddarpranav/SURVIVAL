@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.pranav.survival.videolist">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Preapre Kit"
+    android:layout_margin="20dp"
+
+    android:id="@+id/video1"
+    android:onClick="onClickv1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ignite Fire"
+        android:id="@+id/video2"
+        android:layout_margin="20dp"
+        android:onClick="onClickv2"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Make shelter"
+        android:id="@+id/video3"
+        android:layout_margin="20dp"
+        android:onClick="onClickv3"/>
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>
+
+
+

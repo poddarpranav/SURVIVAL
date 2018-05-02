@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/kits"
+            android:title="Kits"
+            android:icon="@drawable/kiticon"/>
+        <item
+            android:id="@+id/shelter"
+            android:title="Shelter"
+            android:icon="@drawable/shicon"/>
+
+        <item
+            android:id="@+id/fire"
+            android:title="Fire"
+            android:icon="@drawable/fireicon"/>
+
+
+        <item
+            android:id="@+id/water"
+            android:title="Water"
+            android:icon="@drawable/watericon"/>
+
+
+        <item
+            android:id="@+id/food"
+            android:title="Food"
+            android:icon="@drawable/food"/>
+        <item
+            android:id="@+id/animal"
+            android:title="Animals"
+            android:icon="@drawable/animalicon"/>
+
+        <item
+            android:id="@+id/plants"
+            android:title="Plants"
+            android:icon="@drawable/plant"/>
+
+        <item
+            android:id="@+id/poison"
+            android:title="Poisonous Plants"
+            android:icon="@drawable/pisonicon"/>
+
+        <item
+            android:id="@+id/medicine"
+            android:title="Basic Medicine"
+            android:icon="@drawable/medicineicon"/>
+
+
+        <item
+            android:id="@+id/tools"
+            android:title="Tools"
+            android:icon="@drawable/toolsicon"/>
+
+
+        <item
+            android:id="@+id/power"
+            android:title="Power"
+            android:icon="@drawable/powericon"/>
+        <item
+            android:id="@+id/FindDirection"
+            android:title="Direction"
+            android:icon="@drawable/diricon"/>
+        <item
+            android:id="@+id/psychology"
+            android:title="Psychology"
+            android:icon="@drawable/psyicon"/>
+
+
+        <item
+            android:id="@+id/signal"
+            android:title="Signaling"
+            android:icon="@drawable/signal"/>
+
+        <item
+            android:id="@+id/cross"
+            android:title="Cross Water"
+            android:icon="@drawable/crossicon"/>
+
+
+    </group>
+
+</menu>
+

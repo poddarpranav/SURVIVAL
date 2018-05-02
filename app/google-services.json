@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1007376573527",
+    "firebase_url": "https://survival-aec49.firebaseio.com",
+    "project_id": "survival-aec49",
+    "storage_bucket": "survival-aec49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007376573527:android:b09cd45b8321cb84",
+        "android_client_info": {
+          "package_name": "com.example.pranav.survival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007376573527-3970q17cr7vr4nfni6npgd5k1afbntt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pranav.survival",
+            "certificate_hash": "18615b48ea4bcb1f0d4a16c9911a051cf01b5a1f"
+          }
+        },
+        {
+          "client_id": "1007376573527-13vd6d98d0quie4qd2b88dss0mamujk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0f--MAkfDhlsBhKS_P_fKNRvvZsoEZw0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007376573527-13vd6d98d0quie4qd2b88dss0mamujk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
